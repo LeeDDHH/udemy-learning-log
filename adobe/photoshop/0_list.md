@@ -5,7 +5,7 @@
 |--|--|--|
 ||| :four_leaf_clover: Getting Started|
 |:white_check_mark:|1|introduction|
-|:white_large_square:|2|Before you start this Adobe Photoshop CC Tutorial|
+|:white_check_mark:|2|[Before you start this Adobe Photoshop CC Tutorial](2_photoshop_setting.md)|
 ||| :four_leaf_clover: Layers|
 |:white_large_square:|3|How to use layers in Adobe Photoshop CC|
 |:white_large_square:|4|Basic navigation & how to combine images in Photoshop|
