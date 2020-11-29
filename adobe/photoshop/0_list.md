@@ -38,21 +38,21 @@
 |:white_large_square:|25|How to copy from one image to another in Photoshop CC|
 |:white_large_square:|26|How to crop images inside of text|
 |:white_large_square:|27|How to remove the background in Adobe Photoshop CC|
-|:white_large_square:|28|Class Project - Quick Select Tool|
+|:white_large_square:|28| :zap: Class Project - Quick Select Tool|
 |:white_large_square:|29|How to put text behind a person in Adobe Photoshop CC|
 |:white_large_square:|30|How to create a layer mask in Adobe Photoshop CC|
-|:white_large_square:|31|Class project - Cut a person out & put them into another image in Photoshop|
+|:white_large_square:|31| :zap: Class project - Cut a person out & put them into another image in Photoshop|
 |:white_large_square:|32|How to blend fade one image into another in Photoshop CC|
 |:white_large_square:|33|How to weave text in and out of a Photoshop image|
 |:white_large_square:|34|How to select hair in Adobe Photoshop CC|
-|:white_large_square:|35|Class Project - Selecting hair|
+|:white_large_square:|35| :zap: Class Project - Selecting hair|
 |:white_large_square:|36|How to select things with straight edges in Adobe Photoshop CC|
 |:white_large_square:|37|How to get text to interact with ink & plants in Photoshop CC|
-|:white_large_square:|38|Class Project - Text & Image Interaction|
+|:white_large_square:|38| :zap: Class Project - Text & Image Interaction|
 |||Filters|
 |:white_large_square:|39|How to add filters & effects in Adobe Photoshop|
 |:white_large_square:|40|How to turn an image into a painting in Adobe Photoshop|
-|:white_large_square:|41|Class Project – Oil Painting|
+|:white_large_square:|41| :zap: Class Project – Oil Painting|
 |:white_large_square:|42|How to create the Dotted Halftone Poster Effect in Photoshop|
 |:white_large_square:|43|Class exercise - Halftone|
 |:white_large_square:|44|How to fake realistic motion blur in Adobe Photoshop CC|
@@ -62,32 +62,32 @@
 |||Transform & Distort|
 |:white_large_square:|47|How to bend a logo onto an image realistically in Photoshop|
 |:white_large_square:|48|How to make a sky peeling like fabric revealing background in Photoshop|
-|:white_large_square:|49|Class Project - Peeling Sky|
+|:white_large_square:|49| :zap: Class Project - Peeling Sky|
 |:white_large_square:|50|How to shrink body parts in Adobe Photoshop CC using liquify|
 |:white_large_square:|51|How to create dripping paint text effect in Photoshop CC|
-|:white_large_square:|52|Class Project - Drippy Paint Text|
+|:white_large_square:|52| :zap: Class Project - Drippy Paint Text|
 |||Retouching|
 |:white_large_square:|53|How to remove people & text from a picture in Photoshop|
 |:white_large_square:|54|Use Google Images to find your image before retouching|
 |:white_large_square:|55|How to remove red eye from photographs in Photoshop|
 |:white_large_square:|56|How to retouch skin in Adobe Photoshop CC|
-|:white_large_square:|57|Class Project - Retouching|
+|:white_large_square:|57| :zap: Class Project - Retouching|
 |:white_large_square:|58|Enhancing eyes in Adobe Photoshop CC|
 |:white_large_square:|59|How to fix teeth in Adobe Photoshop CC|
 |||Blending Modes|
 |:white_large_square:|60|How to instantly remove the white background of a logo in Photoshop|
 |:white_large_square:|61|Using blending modes as color accents in Photoshop|
 |:white_large_square:|62|How to put images inside a bottle using Photoshop|
-|:white_large_square:|63|Class Project - Boat in a bottle|
+|:white_large_square:|63| :zap: Class Project - Boat in a bottle|
 |||Visual Styles|
 |:white_large_square:|64|How to create the spotify Duotone effect in adobe Photoshop|
-|:white_large_square:|65|Class Project - Duotones|
+|:white_large_square:|65| :zap: Class Project - Duotones|
 |:white_large_square:|66|How to create the 3D glasses Anaglyph effect in Adobe Photoshop|
-|:white_large_square:|67|Class Project - Anaglyph Effect|
+|:white_large_square:|67| :zap: Class Project - Anaglyph Effect|
 |:white_large_square:|68|How to create a vintage instagram Matte Photo in Photoshop|
-|:white_large_square:|69|Class Project - Vintage Matte Photo|
+|:white_large_square:|69| :zap: Class Project - Vintage Matte Photo|
 |:white_large_square:|70|How to create the paper cut effect in Adobe Photoshop CC|
-|:white_large_square:|71|Class Project - Paper Cut Effect|
+|:white_large_square:|71| :zap: Class Project - Paper Cut Effect|
 |||Artboards|
 |:white_large_square:|72|How to use an Artboard in Adobe Photoshop CC|
 |||Color modes & Resolution|
@@ -96,11 +96,11 @@
 |||Brushes|
 |:white_large_square:|75|Basic introduction to using a wacom tablet with Photoshop|
 |:white_large_square:|76|How to create splatter paint effects in Adobe Photoshop CC|
-|:white_large_square:|77|Class Project - Ink Splats|
+|:white_large_square:|77| :zap: Class Project - Ink Splats|
 |:white_large_square:|78|How to create dripping paint ink effect in Photoshop|
-|:white_large_square:|79|Class Project - Dripping Paint Brush|
+|:white_large_square:|79| :zap: Class Project - Dripping Paint Brush|
 |:white_large_square:|80|How to create smoke with an image inside it using Photoshop CC|
-|:white_large_square:|81|Class Project - Smoke effect|
+|:white_large_square:|81| :zap: Class Project - Smoke effect|
 |||Shadows|
 |:white_large_square:|82|How to make a Long vector hard shadow in Photoshop|
 |:white_large_square:|83|How to cast a realistic shadow on the ground in Photoshop|
