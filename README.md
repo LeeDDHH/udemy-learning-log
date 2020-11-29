@@ -5,4 +5,4 @@
 
 ## Learning Log
 
-[Adobe Photoshop CC – Essentials Training Course](adobe/photoshop/0_list.md)
+[Adobe Photoshop CC – Essentials Training Course](adobe/photoshop/0_list.md##adobe-photoshop-cc--essentials-training-course)
